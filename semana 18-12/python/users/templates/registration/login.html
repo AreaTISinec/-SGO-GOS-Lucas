@@ -1,0 +1,9 @@
+<h1>Login</h1>
+<form method="POST" action="http://127.0.0.1:8000/">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Login</button>
+    <a href="{% url 'signup' %}">Aun no tienes una cuenta</a>
+    <a href="{% url 'logout' %}">Cerrar sesion</a>
+</form>
+
