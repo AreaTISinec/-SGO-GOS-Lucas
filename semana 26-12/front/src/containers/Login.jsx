@@ -23,11 +23,11 @@ const Login = ({ login }) => {
   //si esta autenticado
   //redirect a su pagina principal  
   return(
-    <div className="container mt-5">
+    <div className="container mt-5 ">
       <h1>Sign In</h1>
       <p>Ingresa a tu cuenta</p>
       <form onSubmit= {e => onSubmit(e)}>
-        <div className="form-group">
+        <div className="form-group mb-3">
           <input 
             className="form-control"
             type="email"
@@ -38,7 +38,7 @@ const Login = ({ login }) => {
             required
           / >
         </div>
-        <div className="form-group">
+        <div className="form-group mb-3">
           <input 
             className="form-control"
             type="password"
@@ -49,7 +49,7 @@ const Login = ({ login }) => {
             required
           />
         </div>
-        <button className="btn btn-primary" type="submit">Login</button>
+        <button className="btn btn-primary mb-3" type="submit" href='/'>Login</button>
       </form>
       <p className="mt-3">
         ¿No tienes cuenta? <Link to='/signup'> Registrate.</Link>

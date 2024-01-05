@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UTEM\\source\\repos\\test\\test.csproj": {}
+    "C:\\Users\\UTEM\\Documents\\proyectos\\sinec\\-SGO-GOS-Lucas\\semana 11-12\\test\\test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UTEM\\source\\repos\\test\\test.csproj": {
+    "C:\\Users\\UTEM\\Documents\\proyectos\\sinec\\-SGO-GOS-Lucas\\semana 11-12\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UTEM\\source\\repos\\test\\test.csproj",
+        "projectUniqueName": "C:\\Users\\UTEM\\Documents\\proyectos\\sinec\\-SGO-GOS-Lucas\\semana 11-12\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "C:\\Users\\UTEM\\source\\repos\\test\\test.csproj",
+        "projectPath": "C:\\Users\\UTEM\\Documents\\proyectos\\sinec\\-SGO-GOS-Lucas\\semana 11-12\\test\\test.csproj",
         "packagesPath": "C:\\Users\\UTEM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UTEM\\source\\repos\\test\\obj\\",
+        "outputPath": "C:\\Users\\UTEM\\Documents\\proyectos\\sinec\\-SGO-GOS-Lucas\\semana 11-12\\test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UTEM\\AppData\\Roaming\\NuGet\\NuGet.Config",

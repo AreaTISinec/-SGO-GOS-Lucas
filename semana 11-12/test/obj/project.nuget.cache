@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xJLeojDQqFctK0iZsauisl+TN1XXS5Z/Cr3Gl0rYMSrHLZkTccvBJnGmH/3eT+S3aEVCvwoGyQhgalBOcU5kpw==",
+  "dgSpecHash": "R1WoN0jp77Ukat4WkM5PA5YW7ixfAzC5x20aUSABGEQLv301zA7qEHmORsgb0NgoQT/WbN8UXjEmgZqcedLCsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\UTEM\\source\\repos\\test\\test.csproj",
+  "projectFilePath": "C:\\Users\\UTEM\\Documents\\proyectos\\sinec\\-SGO-GOS-Lucas\\semana 11-12\\test\\test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UTEM\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\UTEM\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
