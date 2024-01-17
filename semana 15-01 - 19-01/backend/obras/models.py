@@ -1,8 +1,10 @@
 from django.db import models
+from accounts.models import UserAccount
 
 # Create your models here.
 
 class Obras(models.Model):
+    id_user = models.ForeignKey(UserAccount, on_delete=models.DO_NOTHING)
     fecha_inicio = models.DateField()
     fecha_termino = models.DateField()
     fecha_asignacion = models.DateField()
